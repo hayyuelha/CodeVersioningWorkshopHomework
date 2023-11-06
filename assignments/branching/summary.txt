@@ -1,0 +1,4 @@
+Branching is a collaborative feature in git that enable us to work on some part of the projects without disturbing the development of other parts of the project.
+The best practice is to create a new branch when we want to start developing a new feature. 
+A branch will contain the snapshot of the project. After creating the branch, we can modify the code in this branch without causing disruption on other people work.
+Once we done developing in our branch, we can merge it back to the main branch.
