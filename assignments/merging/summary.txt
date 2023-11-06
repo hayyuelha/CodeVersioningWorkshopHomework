@@ -1,0 +1,4 @@
+Merging is when we want to consolidate two branches in one repository. 
+For example, when we are done with some development on a branch and want to submit the additional code to the master branch.
+When we merge 2 branches, it is possible there is some conflicts. This happens when several people have modified one part of codes.
+If there are any conflicts, we need to resolve it first before merging the branches.
